@@ -1,3 +1,4 @@
+export HUBOT_AUTH_ADMIN=kentquirk
 export HUBOT_IRC_SERVER=irc.freenode.net
 export HUBOT_IRC_ROOMS="#tidebottest"
 export HUBOT_IRC_NICK="tidebot"
