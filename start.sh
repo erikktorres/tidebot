@@ -1,4 +1,4 @@
 #! /bin/sh -eu
 
 . config/env.sh
-bin/hubot -a irc --name tidebot
+exec bin/hubot -a irc --name tidebot
